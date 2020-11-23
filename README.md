@@ -23,7 +23,7 @@ This is a command line tool that analyze videos and detects if a person is smoki
 
 Clone the repo to its own directory (e.g. `smoking-faces`) and inside the `smoking-faces` directory enter:
 
-    python -m venv myenv && myenv\Scripts\activate
+    python -m venv myenv && myenv/Scripts/activate
 
 ### Upgrade pip
 
