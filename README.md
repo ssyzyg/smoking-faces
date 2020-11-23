@@ -33,7 +33,7 @@ You should consider upgrading Python Pip...
 
 ### Install Python requirements
 
-    pip install -r requirements.txt --proxy http://16.153.xx.xx:8080
+    pip install -r requirements.txt --proxy http://16.153.xx.xx:8080 --use-feature=2020-resolver
 
 ## Model files
 
